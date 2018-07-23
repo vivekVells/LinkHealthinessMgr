@@ -1,6 +1,13 @@
 # LinkHealthinessMgr
 input the website url -> extract all possible link -> verify whether those links are not ending up in some sort of error say 404 page not found
 
+# version status
+- selenium: pip install seleniuim==3.13.0 | selenium-3.13.0
+- webdriver:
+  - chrome: 2.4.0 | https://chromedriver.storage.googleapis.com/index.html?path=2.40/
+  - Edge: Release 17134 | https://download.microsoft.com/download/F/8/A/F8AF50AB-3C3A-4BC4-8773-DC27B32988DD/MicrosoftWebDriver.exe
+  - Firefox: v0.21.0 | make sure you download right version (32 or 64 bit based on your OS version) | https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip
+  
 ## Design
 ### Actual Aim:
 - able to navigate to link
