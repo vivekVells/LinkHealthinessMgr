@@ -3,10 +3,3 @@ http://www.linkedin.com
 https://www.express-scripts.com/trghn
 https://www.express-scripts.com/grfethttps://www.marist.edu/
 https://www.express-scripts.com/
-https://www.express-scripts.com/medco/consumer/ehealth/ehsarticle.jsp?articleID=319953&packageTemplate=PA+article+XML&displayTemplate=ProdAlerts+Article+Template&leftNavParam=NewsAnon&GlobNav=1
-https://www.express-scripts.com/frontend/registration-ui/
-https://www.express-scripts.com/frequently-asked-questions
-https://www.express-scripts.com/contact-us
-https://www.express-scripts.com/guest/bill/lookup
-https://www.express-scripts.com/guest/refill/lookup
-https://www.express-scripts.com/medicare-part-d.shtml
