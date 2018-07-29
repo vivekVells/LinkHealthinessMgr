@@ -1,7 +1,8 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,15 +19,65 @@
 
     <!-- Custom styles for this template -->
 
-  </head>
+    <!-- Loading Images -->
+    <link href="{% static 'images/page_loading.gif' %}">
 
-  <body>
+
+
+</head>
+<body>
 
     <div class="container theme-showcase" role="main">
-      <div class="jumbotron">
-        <center><h1>Welcome to Link Reliability Verifier Home Page</h1></center>
-      </div>
+        <div class="jumbotron">
+            <center>
+                <h1>Welcome to Link Reliability Verifier Home Page</h1>
+            </center>
+        </div>
+
+        {% if noerror == None or error404 == None %}
+          <center>
+            <h4>Upload your file here</h4>
+            <br>
+            <form id="form" action='/upload' method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                <input type="file" name="file" />
+                <button class="btn btn-primary" type="submit">Submit</button>
+            </form>
+          </center>
+        {% endif %}
+
+        {% if noerror or error404 %}
+          <center>
+             <a href="{% url 'index' %}" class="btn btn-lg btn-primary">Back</a>
+          </center>
+        {% endif %}
+
+        <br>
+
+        {% if error404 %}
+        <div class="jumbotron">
+            <span>
+                <center>
+                    <h3><span class="text-success">No Error in following URLs</span></h3></center>
+            </span>
+            <span class="pre-scrollable">
+                {% for url in noerror%}
+                    {{url}}
+                <br>
+                {% endfor %}
+            </span>
+        </div>
+        {% endif %}
+
+        {% if error404 %}
+        <div class="jumbotron pre-scrollable">
+            <center>
+                <h3><span class="text-danger">404 Error in following URLs</span></h3></center>
+            {% for url in error404%} {{url}}
+            <br> {% endfor %}
+        </div>
+        {% endif %}
     </div>
 
-  </body>
+</body>
 </html>
