@@ -18,11 +18,10 @@
     <link href="{% static 'css/fileuploadviewapp/bootstrap-theme.min.css' %}" rel="stylesheet">
 
     <!-- Custom styles for this template -->
+    <link href="{% static 'css/fileuploadviewapp/style.css' %}" rel="stylesheet">
 
     <!-- Loading Images -->
     <link href="{% static 'images/page_loading.gif' %}">
-
-
 
 </head>
 <body>
@@ -30,54 +29,54 @@
     <div class="container theme-showcase" role="main">
         <div class="jumbotron">
             <center>
-                <h1>Welcome to Link Reliability Verifier Home Page</h1>
+                <h1>Link Reliability Verifier</h1>
             </center>
         </div>
 
-        {% if noerror == None or error404 == None %}
-          <center>
-            <h4>Upload your file here</h4>
-            <br>
-            <form id="form" action='/upload' method="POST" enctype="multipart/form-data">
-                {% csrf_token %}
-                <input type="file" name="file" />
-                <button class="btn btn-primary" type="submit">Submit</button>
-            </form>
-          </center>
-        {% endif %}
+        <div class="">
 
-        {% if noerror or error404 %}
-          <center>
-             <a href="{% url 'index' %}" class="btn btn-lg btn-primary">Back</a>
-          </center>
-        {% endif %}
-
-        <br>
-
-        {% if error404 %}
-        <div class="jumbotron">
-            <span>
-                <center>
-                    <h3><span class="text-success">No Error in following URLs</span></h3></center>
-            </span>
-            <span class="pre-scrollable">
-                {% for url in noerror%}
-                    {{url}}
-                <br>
-                {% endfor %}
-            </span>
-        </div>
-        {% endif %}
-
-        {% if error404 %}
-        <div class="jumbotron pre-scrollable">
+            {% if noerror == None or error404 == None %}
             <center>
-                <h3><span class="text-danger">404 Error in following URLs</span></h3></center>
-            {% for url in error404%} {{url}}
-            <br> {% endfor %}
+                <h4>Upload your file here</h4>
+                <p>Please wait for a while after file upload; it may take some time to get web responses</p>
+                <br>
+                <form id="form" action='/upload' method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="file" name="file" />
+                    <button class="btn btn-primary" type="submit">Submit</button>
+                </form>
+            </center>
+            {% endif %} {% if noerror or error404 %}
+            <center>
+                <a href="{% url 'index' %}" class="btn btn-lg btn-primary">Back</a>
+            </center>
+            {% endif %}
+
+            <br>
+
+            {% if error404 %}
+            <span class="text-center text-success"><h3>No Errors found in following URLs</h3></span>
+            <div class="jumbotron pre-scrollable">
+                {% for url in noerror %}
+                    {{url}}
+                    <br>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {% if error404 %}
+            <span class="text-center text-danger"><h3>404 Errors found in following URLs</h3></span>
+            <div class="jumbotron pre-scrollable">
+                {% for url in error404%}
+                    {{url}}
+                    <br>
+                {% endfor %}
+            </div>
+            {% endif %}
+
         </div>
-        {% endif %}
     </div>
 
 </body>
+
 </html>
