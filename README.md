@@ -1,6 +1,10 @@
 # LinkHealthinessMgr
 - best place to check website url's reliability such that there is no errors such as 404, permission related, etc... for the web development team
 
+## App Working Functionality Previews
+### Preview 
+![](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
+
 ## Objective
 - To validate url's reliability such that there is no errors like 404 page not found, user permission related, etc...
 
@@ -22,10 +26,6 @@
 - Python
 - HTML | CSS | JavaScript
 - Pivotal Cloud Foundry (in process to deploy the app in CF)
-
-## App Working Functionality Previews
-### Preview 
-![](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
 
 # version status (deprecated - have to recheck whether in need of selenium or not)
 - selenium: pip install seleniuim==3.13.0 | selenium-3.13.0
