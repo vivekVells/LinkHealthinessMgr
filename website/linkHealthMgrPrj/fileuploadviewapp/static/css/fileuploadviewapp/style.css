@@ -19,3 +19,13 @@ body {
 .fileUploadBlock {
     display: none;
 }
+
+.jumbotron {
+    padding: 2em 2em;
+    border-radius: 0em;
+    
+}
+
+#url-input-pad-right {
+    padding-right: 5em;
+}
