@@ -7,7 +7,7 @@ def index(request):
     # return HttpResponse("Hai there! Welcome to Link Healthiness Verifier")
     return render(request, 'fileuploadviewapp/index.html', {})
 
-def upload(request):
+def verifyByFile(request):
     if request.method == 'POST':
         noerror = []
         error404 = []
@@ -28,6 +28,14 @@ def upload(request):
                 print("connection error...")
 
         context = {'error404' : error404, 'noerror' : noerror }
-        return render(request, 'fileuploadviewapp/index.html', context)
+        return render(request, 'fileuploadviewapp/verifybyfile.html', context)
     else:
         return HttpResponse("File Upload Error...")
+
+def verifyByUrl(request):
+    if request.method == 'POST':
+        context = {}
+        return render(request, 'fileuploadviewapp/verifybyurl.html', context)
+    else:
+        context = {}
+        return render(request, 'fileuploadviewapp/verifybyurl.html', context)
