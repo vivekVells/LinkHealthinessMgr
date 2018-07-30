@@ -23,6 +23,10 @@
 - HTML | CSS | JavaScript
 - Pivotal Cloud Foundry (in process to deploy the app in CF)
 
+## App Working Functionality Previews
+### Preview 
+![](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
+
 # version status (deprecated - have to recheck whether in need of selenium or not)
 - selenium: pip install seleniuim==3.13.0 | selenium-3.13.0
 - webdriver:
