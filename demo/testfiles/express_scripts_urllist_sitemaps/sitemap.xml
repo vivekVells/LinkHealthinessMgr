@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.express-scripts.com/</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/ehealth/ehsarticle.jsp?articleID=319953&amp;packageTemplate=PA+article+XML&amp;displayTemplate=ProdAlerts+Article+Template&amp;leftNavParam=NewsAnon&amp;GlobNav=1</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/frontend/registration-ui/</loc>
+  <lastmod>2018-06-04T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/frequently-asked-questions</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/contact-us</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/guest/bill/lookup</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/guest/refill/lookup</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medicare-part-d.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/prc/index.jsp</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/index.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/sitemap</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/legal.jsp</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/useOfInfo.jsp?articleAppId=HelpCenterCB_PrivacyPolicy</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/useOfInfo.jsp?articleAppId=HelpCenterCB_NoticeAck</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/ehealth/hnmain.jsp?packageTemplate=product+alerts+XML+template&amp;displayTemplate=product+alerts+XSL+template&amp;GlobNav=1</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/documents/MAUS.e271b3ec.pdf</loc>
+  <lastmod>2018-07-17T15:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/frequently-asked-questions/login</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/contact-us/login</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/art/prc/Cache_Clear_Steps.pdf</loc>
+  <lastmod>2018-04-05T20:52:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/art/prc/PRCUserGuide.pdf</loc>
+  <lastmod>2018-03-30T17:54:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/benefits/homedelivery.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/benefits/emmp.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/benefits/formularychanges.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/benefits/ohi.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/latestnews.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/healthmatters.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/community.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/pharmacy/findpharmacy.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/tform/index.html</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/deployedrx.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/rxMonitoring.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/mtf/mtf.html</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/safety_savings/fwa.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/safety_savings/prescribing.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/safety_savings/prescriptionMonitoringProgram.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/specialty/specialty.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/specialty/neighborhoods.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/about_express_scripts.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/active_duty_service_members.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/compound_drugs.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/delivery_status.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/deployed_service_members.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/formulary.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/generic_drugs.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/national_guard.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/online_account_security.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/ordering_refilling.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/ohifaq.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/payment.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/prescription_home_delivery.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/smoking_cessation_program.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/uniform_formulary.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/your_plan_coverage.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/qanda.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/registration?partner=DOD&amp;accessLink=TRICARE</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/automaticeRxRefillsConsent.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/safety_savings/reportfraud.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/safety_savings/phantompharmacies.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/safety_savings/protectmessage.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/login?partner=DOD&amp;accessLink=TRICARE</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/home?partner=MOBI&amp;accessLink=mobilevanurl</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/careers/militaryopportunities/</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/contact/contactus.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/useOfInfo.jsp?articleAppId=HelpCenterCB_PrivacyPolicy&amp;loc=GNAVHDR&amp;accessLink=TRICARE&amp;partner=DoD</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/medco/consumer/legal.jsp?partner=DoD</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/dodLogin?partner=DOD&amp;accessLink=TRICARE&amp;newTricare=Y</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/sitemap/login</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/sitemap/guest/bill/lookup</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/sitemap/guest/refill/lookup</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/art/pdf/Text-Messaging-Capabilities.pdf</loc>
+  <lastmod>2017-11-15T22:17:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/registration?partner=DOD</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/benefits/dodMailOrderForm.pdf</loc>
+  <lastmod>2017-01-25T21:42:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/beneficiaryChanges.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/AutomaticRefillsBeneficiaryGuideDoD.pdf</loc>
+  <lastmod>2018-02-06T14:54:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/specialty/FPS_DoD_Specialty_Handbook_final.pdf</loc>
+  <lastmod>2015-05-22T18:52:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/benefits/emmpFAQs.pdf</loc>
+  <lastmod>2015-09-01T18:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveJuly25-2018-ltr1.pdf</loc>
+  <lastmod>2018-06-14T18:54:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveJuly25-2018-ltr2.pdf</loc>
+  <lastmod>2018-06-14T18:54:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveMay2-2018-ltr1.pdf</loc>
+  <lastmod>2018-05-08T13:35:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveMay2-2018-ltr2.pdf</loc>
+  <lastmod>2018-05-08T13:35:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveMay2-2018-ltr3.pdf</loc>
+  <lastmod>2018-05-08T13:35:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveJanuary17-2018.pdf</loc>
+  <lastmod>2017-12-29T18:30:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveNovember01-2017.pdf</loc>
+  <lastmod>2017-09-28T20:19:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveAugust09-2017-ltr1.pdf</loc>
+  <lastmod>2017-06-30T16:30:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveAugust09-2017-ltr2.pdf</loc>
+  <lastmod>2017-06-30T16:30:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveJune28-2017.pdf</loc>
+  <lastmod>2017-04-28T19:44:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveFebruary08-2017-ltr1.pdf</loc>
+  <lastmod>2017-01-12T13:31:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveFebruary08-2017-ltr2.pdf</loc>
+  <lastmod>2017-01-12T13:31:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveJanuary11-2017.pdf</loc>
+  <lastmod>2016-12-02T13:54:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveNov02-2016.pdf</loc>
+  <lastmod>2016-08-31T19:19:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveSept28-2016.pdf</loc>
+  <lastmod>2016-08-31T19:19:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveAugust10-2016.pdf</loc>
+  <lastmod>2016-07-07T13:22:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveJuly06-2016.pdf</loc>
+  <lastmod>2016-06-06T20:17:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveMay4-2016-ltr1.pdf</loc>
+  <lastmod>2016-04-15T19:53:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveMay4-2016-ltr2.pdf</loc>
+  <lastmod>2016-04-15T19:53:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/formularychanges/docs/FormularyCostShareChangesEffectiveFeb03-2016.pdf</loc>
+  <lastmod>2016-02-26T15:34:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/art/pdf/TRICARE-OHILTR.pdf</loc>
+  <lastmod>2015-11-13T17:07:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/nationalDrugTakeBackDay.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/TRICAREBeneficiariesBeingTargetedforCancerScreeningKits.pdf</loc>
+  <lastmod>2018-03-26T18:25:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/hdRefillAdditionalWeek.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/alerts/Fraud%20Alert_Compound%20Rx_041015.pdf</loc>
+  <lastmod>2015-04-24T05:25:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/compoundmed.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/smokingaids.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/residingingermany.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/Vaccine_List.pdf</loc>
+  <lastmod>2018-06-08T15:54:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/coordinatingBenefits.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/pharmacyBenefitTravelsWithYou.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/deployedPrescriptionProgram.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/payingYourScripts.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/emergencyPreparedness.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/ProtectYourselfFromIdentityTheftAndFraud.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/GetEOBOnlineToStayOnTrack.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/maximizaYourPharmacyBenefit.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/copaymentsChange2018.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/M070_December_2017_Education_Article_Happy_Healthy_Holidays_Final.pdf</loc>
+  <lastmod>2017-12-29T18:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/safePrescriptionOpioidUse.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/expectantMothers.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/mobileAppEnhancements.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/backToSchoolRxTips.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/electronicPriorAuthorization.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/managePharmacyBenefitOnline.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/specialtyCareManagementProgram.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/yourRetailPharmacyNetwork.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/phiEmail.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/designateCaregiver.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/decodingPrescriptions.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/ePrescribe.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/knowYourOrderStatus.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/news/medicationtemperaturecontrol.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/aboutus/citizenship/serving_troops.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/aboutus/citizenship/corp_giving.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2014/Express_Scripts_Supports_The_Mission_Continues.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2014/Express_Scripts_Supports_2014_JCS_Price_of_Freedom_Gala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/Express_Scripts_Sponsors_USO_of_Missouri's_Concert.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/Express_Scripts_Supports_Gateway_Warrior_Foundation.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/Express_Scripts_Sponsors_2013_USO_Gala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/10th_Annual_MOAA_Jeff_Peck_Memorial_Golf_Classic.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/Heroes_of_Military_Medicine_Awards.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/Greater_St._Louis_Honor_Flight.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/AnnualUSO_MissouriAFS.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2013/priceofFreedomGala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/USO_Gala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/fisherHouseGala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/marinesBenefitGala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/USOofMORedRockandBlueConcert.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/theMissionContinuesGala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/fiveStarStrategy.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/goldStarWives.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/thanksUSA.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/aboutus/citizenship/golden_age.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/childOfTheYear.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/TAPS.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/NVGAGfinal.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/USOofMissouri.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/angelsBattlefield.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/priceFreedom.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2012/MOAAandESGR.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/tunnelsToTowers.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/sponsorUSOgala.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/golfTournament.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/awardsESGR.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/PSAinitiative.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/goldStarWives.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/operationKidComfort.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/community/docs/2011/missouriVeteranHome.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/aboutus/citizenship/</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/pharmacy/index.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/oepharmacysearch?memtype=TRICARE&amp;BV_SessionID=@@@@1848862521.1532828395-mm506367425596@@@@&amp;BV_EngineID=cchkadhgflffhhlcfklcgffdgkhdggk.0&amp;partner=DOD</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/static/formularySearch/2.9.1/</loc>
+  <lastmod>2018-04-30T13:48:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/USCENTCOM_MOD_THIRTEEN.PDF</loc>
+  <lastmod>2017-07-10T18:03:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/USCENTCOM-MOD-13_TAB-A.pdf</loc>
+  <lastmod>2017-07-10T18:03:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/DoD_Deployment_Prescription_Program_Provider_Brochure.pdf</loc>
+  <lastmod>2018-01-08T19:40:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/DoD_Deployment_Prescription_Program_Beneficiary_Brochure.pdf</loc>
+  <lastmod>2018-05-11T20:56:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/DPPBusinessCards.pdf</loc>
+  <lastmod>2017-03-04T06:52:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/MedicationGuideandWalletCard.pdf</loc>
+  <lastmod>2015-05-01T03:36:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/MTF_Rx_Restriction_Request_Form.pdf</loc>
+  <lastmod>2018-06-26T16:50:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/beneficiary.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/provider.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/pharmacist.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/specialty/hemophiliaSpecialtyPharmacies.pdf</loc>
+  <lastmod>2016-12-07T19:03:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/index.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/documents/PAF_COMPOUNDED_MEDS_20150501.pdf</loc>
+  <lastmod>2015-10-08T17:06:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/contact/</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/faq/documents/PAF_COMPOUNDED_MEDS.pdf</loc>
+  <lastmod>2015-10-07T21:00:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/consumer/site/home?partner=MOBIDEM</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/contact/index.shtml</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/TRICARE_Prior_Autorization_Process_Reference_Sheet.pdf</loc>
+  <lastmod>2018-07-25T20:38:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/Home_Delivery_to_MTF_Manual_FAX_Transfer_Requests_SOP.pdf</loc>
+  <lastmod>2018-07-25T17:35:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/DOD_Prescription_Transfer_from_ESI_to_MTF_Pharmacy_Form.pdf</loc>
+  <lastmod>2018-07-25T17:35:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/MTF_Rx_Restriction_Request_Form_052715.pdf</loc>
+  <lastmod>2015-05-29T21:06:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/Educational_Prescription_Monitoring_Program_May2015_Final.pdf</loc>
+  <lastmod>2015-12-31T17:07:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/TRICARE/tools/RxM_MTF_FAQs.pdf</loc>
+  <lastmod>2015-12-31T17:07:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.express-scripts.com/pagenotfound.html</loc>
+  <lastmod>2018-07-29T01:41:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
