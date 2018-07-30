@@ -30,31 +30,40 @@
 <body>
 
     <div class="container theme-showcase" role="main">
-        <div class="jumbotron center">
+        <div class="jumbotron jumbotron-modified center">
             <h1>Link Reliability Verifier</h1>
         </div>
 
         <div class="switch-choice">
             <div class="center">
                 <h4>Verify Link By</h4>
-                <span>
+                <br>
+                <span id="url-input-pad-right">
                     <input type="radio" id="verify-by-url" value="verify-by-url" onclick="hideFileUpload();" />
-                    URL
+                    <kbd>URL</kbd>
+                    <img title="Url Input" src="{% static 'images/url-image.png' %}" width="60em" alt="url-link" />
                 </span>
                 &nbsp;
                 <span>
                     <input type="radio" id="verify-by-upload" value="igottwo" onclick="hideUrlInput();" />
-                    File Upload
+                    <kbd>File Upload</kbd>
+                    <img title="File Upload" src="{% static 'images/file-upload.png' %}" width="40em" alt="file-upload" />
                 </span>
             </div>
         </div>
 
+        <br>
+
         <div id="urlInputBlock" class="urlInputBlock">
             <div class="center">
                 <h4>Input the website url</h4>
-                <p>Please wait for a while after file upload; it may take some time to get web responses</p>
-                <br>
+                <p class="small">
+                    Please wait for a while after url input<br>
+                    It may take some time to crawl through to get all associated weblinks & its responses
+                </p>
             </div>
+
+            <br>
 
             <div>
                 <form class="center" id="urlInputForm" action='/verifyByUrl' method="POST" enctype="multipart/form-data">
@@ -69,9 +78,14 @@
         <div id="fileUploadBlock" class="fileUploadBlock">
             {% if noerror == None or error404 == None %}
             <div class="center">
-                <h4>Upload your file here</h4>
-                <p>Please wait for a while after file upload; it may take some time to get web responses</p>
+                <h4>Upload file containing links</h4>
+                <p class="small">
+                    Please wait for a while after file upload <br>
+                    It may take some time to get web responses
+                </p>
+
                 <br>
+
                 <form id="fileUploadForm" action='/verifyByFile' method="POST" enctype="multipart/form-data">
                     {% csrf_token %}
                     <input type="file" name="file" />
