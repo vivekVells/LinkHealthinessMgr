@@ -23,39 +23,73 @@
     <!-- Loading Images -->
     <link href="{% static 'images/page_loading.gif' %}">
 
+    <!-- Custom javascript files for this template -->
+    <script src="{% static 'js/fileuploadviewapp/switchurlupload.js'  %}"> </script>
+
 </head>
 <body>
 
     <div class="container theme-showcase" role="main">
-        <div class="jumbotron">
-            <center>
-                <h1>Link Reliability Verifier</h1>
-            </center>
+        <div class="jumbotron center">
+            <h1>Link Reliability Verifier</h1>
         </div>
 
-        <div class="">
+        <div class="switch-choice">
+            <div class="center">
+                <h4>Verify Link By</h4>
+                <span>
+                    <input type="radio" id="verify-by-url" value="verify-by-url" onclick="hideFileUpload();" />
+                    URL
+                </span>
+                &nbsp;
+                <span>
+                    <input type="radio" id="verify-by-upload" value="igottwo" onclick="hideUrlInput();" />
+                    File Upload
+                </span>
+            </div>
+        </div>
 
+        <div id="urlInputBlock" class="urlInputBlock">
+            <div class="center">
+                <h4>Input the website url</h4>
+                <p>Please wait for a while after file upload; it may take some time to get web responses</p>
+                <br>
+            </div>
+
+            <div>
+                <form class="center" id="urlInputForm" action='/verifyByUrl' method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="url" id="url-input-id" />
+                    <button class="btn btn-primary" type="submit">Submit</button>
+                </form>
+            </div>
+
+        </div>
+
+        <div id="fileUploadBlock" class="fileUploadBlock">
             {% if noerror == None or error404 == None %}
-            <center>
+            <div class="center">
                 <h4>Upload your file here</h4>
                 <p>Please wait for a while after file upload; it may take some time to get web responses</p>
                 <br>
-                <form id="form" action='/upload' method="POST" enctype="multipart/form-data">
+                <form id="fileUploadForm" action='/verifyByFile' method="POST" enctype="multipart/form-data">
                     {% csrf_token %}
                     <input type="file" name="file" />
                     <button class="btn btn-primary" type="submit">Submit</button>
                 </form>
-            </center>
-            {% endif %} {% if noerror or error404 %}
-            <center>
+            </div>
+            {% endif %}
+
+            {% if noerror or error404 %}
+            <div class="center">
                 <a href="{% url 'index' %}" class="btn btn-lg btn-primary">Back</a>
-            </center>
+            </div>
             {% endif %}
 
             <br>
 
             {% if error404 %}
-            <span class="text-center text-success"><h3>No Errors found in following URLs</h3></span>
+            <span class="center text-success"><h3>No Errors found in following URLs</h3></span>
             <div class="jumbotron pre-scrollable">
                 {% for url in noerror %}
                     {{url}}
@@ -65,7 +99,7 @@
             {% endif %}
 
             {% if error404 %}
-            <span class="text-center text-danger"><h3>404 Errors found in following URLs</h3></span>
+            <span class="center text-danger"><h3>404 Errors found in following URLs</h3></span>
             <div class="jumbotron pre-scrollable">
                 {% for url in error404%}
                     {{url}}

@@ -7,3 +7,15 @@ body {
     background-attachment: fixed;
     */
 }
+
+.center {
+    text-align: center;
+}
+
+.urlInputBlock {
+    display: none;
+}
+
+.fileUploadBlock {
+    display: none;
+}

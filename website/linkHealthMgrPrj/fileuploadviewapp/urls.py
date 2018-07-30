@@ -5,5 +5,6 @@ from . import views
 
 urlpatterns = [
     path('', views.index, name='index'),
-    path('upload', views.upload, name='upload'),
+    path('verifyByFile', views.verifyByFile, name='verifyByFile'),
+    path('verifyByUrl', views.verifyByUrl, name='verifyByUrl'),
 ]
