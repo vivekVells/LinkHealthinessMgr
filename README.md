@@ -1,15 +1,36 @@
 # LinkHealthinessMgr
-input the website url -> extract all possible link -> verify whether those links are not ending up in some sort of error say 404 page not found
+- best place to check website url's reliability such that there is no errors such as 404, permission related, etc... for the web development team
 
-# version status
+## Objective
+- To validate url's reliability such that there is no errors like 404 page not found, user permission related, etc...
+
+## Project Working Demo
+- [Video Link](https://drive.google.com/open?id=1oBkB4RADSK5A7oa3PB_aayt9oh1POEqJ)
+- [Working Demo - GIF](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
+- [Working Demo - PDF]() - will be updated
+- [Working Demo Files](https://github.com/vivekVells/LinkHealthinessMgr/tree/develop/demo)
+
+## How site works now
+### Case 1: verify link reliability by original url/host url/actual url
+- say url "http://express-scripts.com/" -> then all links available in that website url's reliability have to be verified 
+### Case 2: verify by file upload containing all possible links of the actual/original/host url
+- say file containing all available urls of the host url 
+  - upload such file to verify its reliability
+  
+## Technology involved:
+- Django
+- Python
+- HTML | CSS | JavaScript
+- Pivotal Cloud Foundry (in process to deploy the app in CF)
+
+# version status (deprecated - have to recheck whether in need of selenium or not)
 - selenium: pip install seleniuim==3.13.0 | selenium-3.13.0
 - webdriver:
   - chrome: 2.4.0 | https://chromedriver.storage.googleapis.com/index.html?path=2.40/
   - Edge: Release 17134 | https://download.microsoft.com/download/F/8/A/F8AF50AB-3C3A-4BC4-8773-DC27B32988DD/MicrosoftWebDriver.exe
   - Firefox: v0.21.0 | make sure you download right version (32 or 64 bit based on your OS version) | https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip
   
-## Design
-### Actual Aim:
+### Actual Aim: (depreceated)
 - able to navigate to link
 - able to verify whether that page link have 404 error or not
 - Phase 1:
@@ -38,5 +59,5 @@ input the website url -> extract all possible link -> verify whether those links
         - "www.root.com/page2/page2asroot/page2"
     - verify each unique links received at last to verify 404 error response
 
-### Additional capability:
+### Additional capability: (deprecated)
 - capability to receive links in .csv or .txt file and verify 404 error of each link
