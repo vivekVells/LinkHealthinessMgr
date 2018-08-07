@@ -3,14 +3,14 @@
 
 ## App Working Functionality Previews
 ### Preview 
-![](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
+![](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20linkreliabilityverifier%20working%20demo%20gif.gif)
 
 ## Objective
 - To validate url's reliability such that there is no errors like 404 page not found, user permission related, etc...
 
 ## Project Working Demo
 - [Video Link](https://drive.google.com/open?id=125LxihpVWTy23CaovFe-dKGzKHk4yuW1)
-- [Working Demo - GIF](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
+- [Working Demo - GIF](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20linkreliabilityverifier%20working%20demo%20gif.gif)
 - [Working Demo - PDF]() - will be updated
 - [Working Demo Files](https://github.com/vivekVells/LinkHealthinessMgr/tree/develop/demo)
 
