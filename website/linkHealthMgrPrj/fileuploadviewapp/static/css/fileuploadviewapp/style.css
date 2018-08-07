@@ -1,0 +1,31 @@
+body {
+    /*
+    background: url('../images/background.jpg') repeat-x repeat-y;
+    background: url("/static/images/background.jpg") 50% 0 no-repeat fixed;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    */
+}
+
+.center {
+    text-align: center;
+}
+
+.urlInputBlock {
+    display: none;
+}
+
+.fileUploadBlock {
+    display: none;
+}
+
+.jumbotron {
+    padding: 2em 2em;
+    border-radius: 0em;
+    
+}
+
+#url-input-pad-right {
+    padding-right: 5em;
+}

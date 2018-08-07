@@ -1,0 +1,71 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="This project helps to verify the link's reliability by evaulating link's response code onvisit" content="">
+    <meta name="Vivek Vellaiyappn Surulimuthu" content="">
+
+    <title>Link Reliability Verifier</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'css/fileuploadviewapp/bootstrap.min.css' %}" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="{% static 'css/fileuploadviewapp/bootstrap-theme.min.css' %}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{% static 'css/fileuploadviewapp/style.css' %}" rel="stylesheet">
+
+    <!-- Loading Images -->
+    <link href="{% static 'images/page_loading.gif' %}">
+
+    <!-- Custom javascript files for this template -->
+    <script src="{% static 'js/fileuploadviewapp/switchurlupload.js'  %}"> </script>
+
+</head>
+<body>
+
+    <div class="container theme-showcase" role="main">
+        <div class="jumbotron center">
+            <h1>Link Reliability Verifier</h1>
+        </div>
+
+        <div class="center">
+            <h4>Verify By File Results shown below</h4>
+            <br>
+        </div>
+
+        <div class="center">
+            <a href="{% url 'index' %}" class="btn btn-lg btn-primary">Home</a>
+        </div>
+
+        <br>
+
+        {% if error404 %}
+        <span class="center text-success"><h3>No Errors found in following URLs</h3></span>
+        <div class="jumbotron pre-scrollable">
+            {% for url in noerror %}
+                {{url}}
+                <br>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        {% if error404 %}
+        <span class="center text-danger"><h3>404 Errors found in following URLs</h3></span>
+        <div class="jumbotron pre-scrollable">
+            {% for url in error404%}
+                {{url}}
+                <br>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+
+</body>
+
+</html>
