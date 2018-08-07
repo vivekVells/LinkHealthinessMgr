@@ -7,6 +7,9 @@ def index(request):
     # return HttpResponse("Hai there! Welcome to Link Healthiness Verifier")
     return render(request, 'fileuploadviewapp/index.html', {})
 
+def about(request):
+    return render(request, 'fileuploadviewapp/about.html', {})
+
 def verifyByFile(request):
     if request.method == 'POST':
         noerror = []
