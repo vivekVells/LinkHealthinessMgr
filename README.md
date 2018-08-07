@@ -9,7 +9,7 @@
 - To validate url's reliability such that there is no errors like 404 page not found, user permission related, etc...
 
 ## Project Working Demo
-- [Video Link](https://drive.google.com/open?id=1oBkB4RADSK5A7oa3PB_aayt9oh1POEqJ)
+- [Video Link](https://drive.google.com/open?id=125LxihpVWTy23CaovFe-dKGzKHk4yuW1)
 - [Working Demo - GIF](https://github.com/vivekVells/LinkHealthinessMgr/blob/develop/demo/v1%20Link%20Health%20Verifier.gif)
 - [Working Demo - PDF]() - will be updated
 - [Working Demo Files](https://github.com/vivekVells/LinkHealthinessMgr/tree/develop/demo)
@@ -26,6 +26,31 @@
 - Python
 - HTML | CSS | JavaScript
 - Pivotal Cloud Foundry (in process to deploy the app in CF)
+
+# Problem:
+- During web development, there is a slight chance where web developer accidently inserts an invalid link to the production code that might end up in server side (5XX) or client side error code (4XX). 
+
+# Aim:
+- trying to solve the problem cited above by either
+  - url: crawling throught the given url and testing each possible links available
+  - file: testing all links available in the testurllinks.txt file 
+
+# What's implemented:
+- test by file: implemented
+- test by URL: to be implemented in future
+
+# How to test by file:
+- Tutorial Link: (will be updated)
+- upload a text file containing all possible links of your website. make sure each links are having carriage return (or) refer the format of the link placement below
+
+https://www.express-scripts.com/
+https://www.express-scripts.com/login
+https://www.express-scripts.com/xyz
+
+# Future plans:
+- Will be implementing testing by url
+
+contact: techengineervivek@gmail.com / vivekvellaiyappans@gmail.com
 
 # version status (deprecated - have to recheck whether in need of selenium or not)
 - selenium: pip install seleniuim==3.13.0 | selenium-3.13.0
